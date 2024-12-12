@@ -1,89 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Presentación Mejorada</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f5f5f5;
-            color: #333;
-        }
+# Bienvenido
 
-        h1 {
-            color: #0073e6;
-        }
+<!--------------------------------------------------------------------------------------------------------->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-        .button {
-            background-color: #0073e6;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
-            font-size: 16px;
-            display: inline-block;
-            margin: 10px;
-        }
+<!--------------------------------------------------------------------------------------------------------->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
 
-        .button:hover {
-            background-color: #005bb5;
-        }
+<!--------------------------------------------------------------------------------------------------------->
+<p align="center">
+    <a href="https://www.linkedin.com/in/👽" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
+    <a href="https://twitter.com/👽" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
+    <a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.youtube.com/👽" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
+    <a href="https://www.tiktok.com/👽" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
+</p>
 
-        .tech-list {
-            list-style: none;
-            padding: 0;
-            margin: 20px 0;
-        }
+<!--------------------------------------------------------------------------------------------------------->
+<div align="center">
+  <h3>Habilidades Front-End</h3>
+  <p>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">    
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">   
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
+  </p>
+</div>
 
-        .tech-list li {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 10px 0;
-        }
+<!--------------------------------------------------------------------------------------------------------->
+<details>
+<summary><b>GeoJSON</b></summary>
 
-        .tech-list img {
-            width: 24px;
-            margin-right: 10px;
-        }
+```json
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-86.09417, 11.97444],
+              [-86.09417, 11.97444],
+              [-86.09417, 11.97444],
+              [-86.09417, 11.97444],
+              [-86.09417, 11.97444]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
-        .tech-list a {
-            color: #0073e6;
-            text-decoration: none;
-            font-size: 18px;
-        }
+</details>
 
-        .tech-list a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Presentación Mejorada</h1>
+<!--------------------------------------------------------------------------------------------------------->
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+</div>
 
-    <!-- Botón para enlace principal -->
-    <a href="https://example.com" target="_blank" class="button">Gráfico de Sirena TD</a>
-
-    <!-- Lista de tecnologías utilizadas -->
-    <h3>Tecnologías Front-End</h3>
-    <ul class="tech-list">
-        <li>
-            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5">
-            <a href="#">HTML5</a>
-        </li>
-        <li>
-            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3">
-            <a href="#">CSS3</a>
-        </li>
-        <li>
-            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript">
-            <a href="#">JavaScript</a>
-        </li>
-        <!-- Puedes añadir más tecnologías aquí -->
-    </ul>
-</body>
-</html>
+<!
