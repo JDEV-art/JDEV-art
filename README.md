@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdia-del-programador&psig=AOvVaw3W5sAkNQ4-fmKCzIq90Qc2&ust=1734120906202000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDQ66GGo4oDFQAAAAAdAAAAABAE)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F851884085758654325%2F&psig=AOvVaw35RFkDaLNrP9ylxmlI1STR&ust=1734121719733000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICakpmJo4oDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Nicolas Cort</h1>
 <h3 align="center">A passionate AI, ML and Data Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
