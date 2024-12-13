@@ -30,9 +30,6 @@ I am a backend developer experienced in creating efficient APIs and robust syste
   <div style="text-align: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=JDEV-art&show_icons=true&theme=blueberry" alt="GitHub Stats" />
   </div>
-  <div style="text-align: right;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JDEV-art&theme=blueberry" alt="Contribution Graph" />
-  </div>
 </div>
 
 <div align="center">
